@@ -38,7 +38,7 @@ public class Viva2 {
         int sum=0;
         int count=0;
         boolean pass=false;
-        for(int i=0;i<r/2;i++){
+        for(int i=0;i<r;i++){
             for(int j=i;count<n;j++){
                 sum+=j;
                 count++;
